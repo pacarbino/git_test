@@ -1,1 +1,1 @@
-This is my first git project. K, thnx bye.
+This is my first git "project". OK, thanks, bye.
